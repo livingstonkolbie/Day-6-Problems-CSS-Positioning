@@ -1,0 +1,62 @@
+header {
+    display: flex;
+    position: static;
+}
+
+nav {
+    position: relative;
+    top: 15px;
+    left: 60px;
+}
+
+/* ul {
+    margin-top: 32px;
+} */
+
+li {
+    display: inline;
+    margin: 10px;
+}
+
+.container {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    border: 2px solid rgb(222, 150, 87);
+    background-color: peachpuff;
+    padding: 20px;
+}
+
+.badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: red;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.paragraph300 {
+    padding: 10px;
+    font-weight: bold;
+    
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(207, 156, 207);
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.paragraphFooter {
+    margin-top: 28px;
+    
+}

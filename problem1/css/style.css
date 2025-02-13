@@ -1,0 +1,12 @@
+.container {
+    position: relative;
+    height: 400px;
+    background-color: aquamarine;
+}
+
+.absolute {
+    position: absolute;
+    background-color: blueviolet;
+    top: 30px;
+    left: 50px;
+}

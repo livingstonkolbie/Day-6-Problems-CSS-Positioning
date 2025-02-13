@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: rgb(36, 151, 30);
+    position: fixed;
+    width: 100%;
+
+    padding: 10px;
+    letter-spacing: 1.5px;
+}
+
+ul {
+    list-style: none;
+    justify-self: center;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+.container {
+    width: 100%;
+    background-color: rgb(230, 191, 91);
+    height: 1000px;
+}
+

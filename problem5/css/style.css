@@ -1,0 +1,18 @@
+p {
+    font-size: larger;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    
+}
+
+button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    border: 2px solid chocolate;
+    font-weight: bold;
+}
